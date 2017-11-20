@@ -4,8 +4,8 @@
  * Simple Spoiler Extension for phpBB.
  * @author Alfredo Ramos <alfredo.ramos@yandex.com>
  * @copyright 2017 Alfredo Ramos
- * @license GNU GPL-2.0
- * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.9] (https://github.com/phpBBTraducoes)
+ * @license GPL-2.0
+ * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.2.0] (https://github.com/phpBBTraducoes)
  */
 
 /**
